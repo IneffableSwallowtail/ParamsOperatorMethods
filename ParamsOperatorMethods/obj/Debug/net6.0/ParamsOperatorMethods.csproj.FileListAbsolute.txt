@@ -1,0 +1,15 @@
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\bin\Debug\net6.0\ParamsOperatorMethods.exe
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\bin\Debug\net6.0\ParamsOperatorMethods.deps.json
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\bin\Debug\net6.0\ParamsOperatorMethods.runtimeconfig.json
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\bin\Debug\net6.0\ParamsOperatorMethods.dll
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\bin\Debug\net6.0\ParamsOperatorMethods.pdb
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\obj\Debug\net6.0\ParamsOperatorMethods.csproj.AssemblyReference.cache
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\obj\Debug\net6.0\ParamsOperatorMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\obj\Debug\net6.0\ParamsOperatorMethods.AssemblyInfoInputs.cache
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\obj\Debug\net6.0\ParamsOperatorMethods.AssemblyInfo.cs
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\obj\Debug\net6.0\ParamsOperatorMethods.csproj.CoreCompileInputs.cache
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\obj\Debug\net6.0\ParamsOperatorMethods.dll
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\obj\Debug\net6.0\refint\ParamsOperatorMethods.dll
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\obj\Debug\net6.0\ParamsOperatorMethods.pdb
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\obj\Debug\net6.0\ParamsOperatorMethods.genruntimeconfig.cache
+C:\Users\ajmil\source\repos\ParamsOperatorMethods\ParamsOperatorMethods\obj\Debug\net6.0\ref\ParamsOperatorMethods.dll
